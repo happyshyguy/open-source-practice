@@ -605,6 +605,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Aryan Agarwal](https://github.com/agarwal-aryan)
   - [Aryan Bhasein](https://github.com/Aryan2892)
   - [Aryan Deshpande](https://github.com/Aryan-Deshpande)
+  - [Aryan Gupta](https://github.com/happyshyguy)
   - [Aryan Jain](https://github.com/coolAryan)
   - [Aryan Kathawale](https://github.com/kiritocode1)
   - [Aryan Maini](https://github.com/Aryan-Maini)
